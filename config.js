@@ -245,20 +245,14 @@ module.exports = {
         netId56: {
             bnb: {
                 instanceAddress: {
-                    0.1: '0x785D7A0dE8b7813033452c9D6DbC86a5238927fC',
-                    1: '0x063117fD87cdD6184D8d8Da81Da5D06921e5D934',
-                    10: '0xC09203Cb47031C7abE318D0b59EDAc9C70a3be53',
-                    100: '0xB6c72a9ED4E606D52B6cbb6a8f2DC216BC562697',
+                    0.1: '0x785D7A0dE8b7813033452c9D6DbC86a5238927fC'
                 },
                 symbol: 'BNB',
                 decimals: 18,
             },
             storm: {
                 instanceAddress: {
-                    10: '0xB8cC42C43Bec92B305D4850C4D64818Fb275919a',
-                    100: '0xd60614AC263bfC39ab043f448AA5C0F20B2F637A',
-                    500: '0x066beB101D26Ca58e48dB0fF39dF14a570399712',
-                    1000: '0xa4FB259eD7E109803eD26C8f4425cC45160770aA',
+                    10: '0xB8cC42C43Bec92B305D4850C4D64818Fb275919a'
                 },
                 tokenAddress: '0xf1D99a8009f431b72E390E63A85E91D6CE4ECD7d',
                 symbol: 'STORM',
