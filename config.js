@@ -245,14 +245,31 @@ module.exports = {
         netId56: {
             bnb: {
                 instanceAddress: {
-                    0.1: '0x785D7A0dE8b7813033452c9D6DbC86a5238927fC'
+                    0.1: '0x785D7A0dE8b7813033452c9D6DbC86a5238927fC',
+                    1: '0x8d149a2F7903BB0341Cf3F05B199A8F7a7F7ecC9',
+                    10: '0x6EEe950366AdC89c441b8CD80503b1974F419Da7',
+                    100: '0xb9b3877b1ad881645fF372Fd7b7cB788DE8243BC'
                 },
                 symbol: 'BNB',
                 decimals: 18,
             },
+            busd: {
+                instanceAddress: {
+                    10: '0x9c3C7f40112eedFAaa42441054d7F4f5B8387D6F',
+                    100: '0x8464Fa0ad92FE1b07B1f5ad5a5299f3990942c88',
+                    1000: '0xbb77170F1F9d7d8A4F8cd6Caa1648be06aBaB087',
+                    10000: '0xb8deE638c3743384558656987DD7DACAc542DaA1'
+                },
+                tokenAddress: '0xf1D99a8009f431b72E390E63A85E91D6CE4ECD7d',
+                symbol: 'STORM',
+                decimals: 8,
+            },
             storm: {
                 instanceAddress: {
-                    10: '0xB8cC42C43Bec92B305D4850C4D64818Fb275919a'
+                    10: '0xB8cC42C43Bec92B305D4850C4D64818Fb275919a',
+                    100: '0x4e70f58Fb952f65235DB0CeF641ac71c44434Cd4',
+                    1000: '0x7242CA65719710F0f9c00977eE9938fda21cb38c',
+                    10000: '0x53bd8F43B4468c8D963c81cdD61eE5a2D4C91631'
                 },
                 tokenAddress: '0xf1D99a8009f431b72E390E63A85E91D6CE4ECD7d',
                 symbol: 'STORM',
