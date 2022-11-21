@@ -260,9 +260,9 @@ module.exports = {
                     1000: '0xbb77170F1F9d7d8A4F8cd6Caa1648be06aBaB087',
                     10000: '0xb8deE638c3743384558656987DD7DACAc542DaA1'
                 },
-                tokenAddress: '0xf1D99a8009f431b72E390E63A85E91D6CE4ECD7d',
-                symbol: 'STORM',
-                decimals: 8,
+                tokenAddress: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
+                symbol: 'BUSD',
+                decimals: 18,
             },
             storm: {
                 instanceAddress: {
