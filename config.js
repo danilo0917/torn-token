@@ -112,7 +112,7 @@ module.exports = {
                     100000: '0x4e09ee0f4230bb259f361ddf031ed075a32b34d6',
                 },
                 tokenAddress: '0x2b591e99afe9f32eaa6214f7b7629768c40eeb39',
-                symbol: 'cDAI',
+                symbol: 'HEX',
                 decimals: 8,
             }
         },
