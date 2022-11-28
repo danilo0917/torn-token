@@ -113,7 +113,7 @@ module.exports = {
                 },
                 tokenAddress: '0x2b591e99afe9f32eaa6214f7b7629768c40eeb39',
                 symbol: 'HEX',
-                decimals: 18,
+                decimals: 8,
             }
         },
         netId3: {
