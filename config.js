@@ -239,7 +239,7 @@ module.exports = {
                 },
                 tokenAddress: '0xbBC4C1e5Bafe890B48639d493ca218EDa13f8e7b',
                 symbol: 'STORM',
-                decimals: 18, 
+                decimals: 18,
             },
         },
         netId97: {
